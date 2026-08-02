@@ -5,11 +5,14 @@ Domaine : https://barkcodepet.online
 
 ## Contenu
 
-| Fichier / dossier | Rôle |
+| Fichier | Rôle |
 |---|---|
-| `index.html` | Page unique (hero, à propos, services, avis Google, galerie, contact) |
-| `images/` | Photos du site (hero, toilettage, boutique, galerie) |
+| `index.html` | Page unique complète (hero, à propos, services, avis Google, galerie, contact) — photos hébergées en ligne, aucun autre fichier nécessaire |
 | `CNAME` | Domaine personnalisé GitHub Pages (barkcodepet.online) |
+
+## Mise en ligne
+
+Settings → Pages → Source : `main` / `(root)`. Le domaine `barkcodepet.online` est déjà configuré via le fichier CNAME.
 
 ## Liens intégrés
 
